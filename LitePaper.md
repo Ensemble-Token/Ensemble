@@ -18,8 +18,8 @@
 Bitcoin, which is built on Blockchain, was an effort to save the “money” from the centralized, authoritative governments and institutions.
 However, nowadays, cryptocurrencies are falling apart from their main purpose of saving the “money” and they are becoming more institutionalized while individuality is left behind. 
 
-Ensemble token is created for each individual to have a say and to make a difference. 
-Ensemble is created as a simple, undistinguished token; to be suitable for its purpose. 
+The Ensemble token is created for each individual to have a say and to make a difference. 
+The Ensemble is created as a simple, undistinguished token; to be suitable for its purpose. 
 The future of this token will be decided by the holders of this token. 
 Ensemble is a collective token, of which it’s project and technology will be decided and developed by its holders and coders.
 
@@ -42,14 +42,14 @@ Example: Any coder may revise an exhibited project; may correct an error or may 
 These revisions are visible to everyone and are open to comments and votes.
 However, unless the owner of the project chooses to make a change, revisions cannot be applied to the project.
 If the owner of the project chooses to make change, they can add these revisions to their project just by one click or edit these revisions and add that edited version. 
-The system of Encor will ameliorate the open-source softwares and new projects further ahead. 
+The system of Encor will ameliorate the open-source software and new projects further ahead. 
 
 Each like, comment and sharing on Encor has a point equivalent. 
 ENS token will be given in accordance with the points earned. 
 For each token given, equivalent amount of ENS will be burned.
-Thus, as the project is improved, maximum supply of Ensamble will reduce and the value of Ensamble will increase. 
+Thus, as the project is improved, maximum supply of Ensemble will reduce and the value of Ensemble will increase. 
 
-Ensemble is a token which will improve by the contributions of all. 
+The Ensemble is a token which will improve by the contributions of all. 
 New tasks can be opened in line with the requirements or by the new decisions made on the voting platform.
 If the coders prefer, they can support these new tasks and if they do, they will earn points. 
 
@@ -79,11 +79,11 @@ that they can prove their ownership of required amount of ENS.
 
 ![3](https://user-images.githubusercontent.com/85224145/127242309-5014d122-aae2-4dc5-ab45-281218448a5f.png)
 
-1) Each holder is allowed to make a suggestion on any subject by creating a smart contract. To make asuggestion, holders must own at least 400$
+1) Each holder is allowed to make a suggestion on any subject by creating a smart contract. To make a suggestion, holders must own at least $400
 equivalent of ENS token, which is just an assurance and will not be paid by the holders. (Holders who wish to make a suggestion are required to pay only the transaction fee)  
 
-2) The suggestions made will be evaluated by their compatibility with Ensamble constitution; then by the expressiveness of the suggestion.  
-Suggestions like “Ensamble should have ...” are not acceptable. 
+2) The suggestions made will be evaluated by their compatibility with Ensemble constitution; then by the expressiveness of the suggestion.  
+Suggestions like “Ensemble should have ...” are not acceptable. 
 The advantages, designation of a problem, resolution of a problem and procedures of the suggestion must be explained in detail. 
 
 3) Suggestions are accepted or rejected with respect to the second clause. 
@@ -95,14 +95,14 @@ The results of these evaluations are shared and, by this, other holders will be 
 5) If the suggestion is voted less than 5% of the holders, it will automatically be rejected. 
 Each holder participated in voting, whether accepted or rejected, will be given NFTs as an award and a proof of participation. 
 
-6) Roadmap is prepared and project is started for the realizaiton of the suggestion. 
+6) Roadmap is prepared and project is started for the realization of the suggestion. 
 
 The expert title is given to people in the Votto platform via invitations.
-These people are chosen by their field of expertise; such as economics, coding, managing, artist, enterpreneurship, influencer etc.
+These people are chosen by their field of expertise; such as economics, coding, managing, artist, entrepreneurship, influencer etc.
 When the expert is determined, it is announced to everyone in the community. 
 These experts are known in the platform; however, it remains confidential that which expert is voted for which project. 
 
-Initially, only choises will be provided in Votto. 
+Initially, only choices will be provided in Votto. 
 Example: In which area would you prefer that Ensemble project to be improved? Transport, staking, tourism, cybersecurity, gaming, NFT...
 As the project is improved, the platform become a place where the holders can make any suggestions on any subject by smart contracts. 
 
@@ -112,8 +112,8 @@ or waiting for mining of some blocks after the transaction of ENS  token to the 
 
 # ___________BARLY___________
 
-NFTs given as reward in Votto will contain works of agreed artists in JPG, 3D, mp4, gif or wav formats. 
-These NFTs will consists of Epic, Ultra Rare, Rare and Common categories.
+NFTs given as reward in Votto will contain works of agreed artists in JPG, 3D, mp4, GIF or wav formats. 
+These NFTs will consist of Epic, Ultra Rare, Rare and Common categories.
 
 If 1000 NFTs will be distributed, their categories and amounts will be:
 10   Epic
@@ -137,7 +137,7 @@ Kobo is a DeFi project that is built on Binance Smart Chain network.
 In this platform, tokens can be bought and sold, staking and farming can be done via BSC network. 
 
 In Kobo V2, pre sales of tokens in the BSC network that are developed via Encor will be done. 
-Kobo platform will use the revenues of pre sales for buying ENS tokens from the market and burn them. 
+The Kobo platform will use the revenues of pre sales for buying ENS tokens from the market and burn them. 
 
 # ___________Ensemble Constitution___________
 
@@ -148,7 +148,7 @@ Kobo platform will use the revenues of pre sales for buying ENS tokens from the 
 3) Clauses that can not be voted are:
 Ensemble project can not be ceased to a stop or eliminated.  
 Tokens can not be granted to others.
-Suggestions that are threathening the Ensemble project in terms of ceasing, risking or raising doubts can not be made. 
+Suggestions that are threatening the Ensemble project in terms of ceasing, risking or raising doubts can not be made. 
 
 4) Each account is able to vote in only one category, and to choose only one option. 
 
@@ -168,7 +168,7 @@ For other votings, having at least $400 equivalent of ENS is required.
 
 # ___________FAQ___________
 
-* Q: Why Ensembe is founded in BSC network instead of more decentralized coins such as Etherium? 
+* Q: Why Ensemble is founded in BSC network instead of more decentralized coins such as Ethereum? 
 * A: Decision making system is built on smart contracts and Ethereum transaction fee is high, so we preferred BSC network. 
 # 
 

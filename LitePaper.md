@@ -173,15 +173,15 @@ For other votings, having at least $400 equivalent of ENS is required.
 
 * Q: Why Ensembe is founded in BSC network instead of more decentralized coins such as Etherium? 
 * A: Decision making system is built on smart contracts and Ethereum transaction fee is high, so we preferred BSC network. 
-
+# 
 
 * Q: If the project will be determined by the holders, why platforms such as Encor, KoboSwap etc. exist?
 * A: These projects are the 4 pillars of Ensemble project and at the same time they are tools for improving the Ensemble project. They are useful in expansion of the area of use of token and reaches to a wider community.
-
+# 
 
 * Q: What is the order of development/publish of these 4 projects?
 * A: Encore, Votto, Barly, KoboSwap.
-
+# 
 
 * Q: At which stage of development are these projects?
 * A: All 4 projects are studied thoroughly and scheme of these projects are determined. Yet cannot be shared due to confidentiality restrictions. 

@@ -31,7 +31,8 @@ The mechanism of Ensemble token works in a way that as the project is improved b
 Lite paper, token and related projects will be improved and written by the holders. 
 Ensemble is built on four pillars to provide an efficient system.
 
-![2](https://user-images.githubusercontent.com/85224145/127241955-1f9dfa2d-04c0-4aa4-a3db-1f0ddd123ea8.png)
+![1](https://user-images.githubusercontent.com/85224145/127245842-4e09c6cf-7da3-435e-a057-d700af5b2ca2.png)
+
 
 # ___________ENCOR___________
 

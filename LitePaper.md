@@ -8,15 +8,15 @@ Ensemble a collective token. $ENS
 # Contract: 0x93600cEc0Ba5717A14fE0604081a53937EFbA841
 # Official Site: ensembletoken.com
 # 
-# Airdrop: 0x2aB80b490B69191Cd02d60ab56af727C0eE6f8Ac 270.000 ENS
-# Private Sale: 0xeE0C6FE26315033d96a20b6EDaD9D920Aca6d58f 135.000 ENS
-# Pre-Sale: 0xb6509DFC8F74ca3880c4dC4313602A171D1c6A84 4.000.000 ENS
-# Marketing: 0x8239329Bf308De55332c8d1E7629DDa485A3F4f7 20.000.000 ENS
-# Projects: 0xf427a4305cb1637BA5551C932C11b55164aC623A 50.000.000 ENS
-# Team: 0x81637f850867057848e64752C434d20903f520B4 40.000.000 ENS (locked)
-# Liquidity 1: 0xB1c9fD4AA265E475Bc7E78418e33C19c16a138AC 50.000.000 ENS
-# Liquidity 2: 0xA97Dc5Eb202df2AEcDbc792BcdeA6726F259700d 50.000.000 ENS
-# Liquidity 3: 0x320Ed7b5540947e430c91F5B574B37a014554F37 85.595.000 ENS (locked)
+* Airdrop: 0x2aB80b490B69191Cd02d60ab56af727C0eE6f8Ac 270.000 ENS
+* Private Sale: 0xeE0C6FE26315033d96a20b6EDaD9D920Aca6d58f 135.000 ENS
+* Pre-Sale: 0xb6509DFC8F74ca3880c4dC4313602A171D1c6A84 4.000.000 ENS
+* Marketing: 0x8239329Bf308De55332c8d1E7629DDa485A3F4f7 20.000.000 ENS
+* Projects: 0xf427a4305cb1637BA5551C932C11b55164aC623A 50.000.000 ENS
+* Team: 0x81637f850867057848e64752C434d20903f520B4 40.000.000 ENS (locked)
+* Liquidity 1: 0xB1c9fD4AA265E475Bc7E78418e33C19c16a138AC 50.000.000 ENS
+* Liquidity 2: 0xA97Dc5Eb202df2AEcDbc792BcdeA6726F259700d 50.000.000 ENS
+* Liquidity 3: 0x320Ed7b5540947e430c91F5B574B37a014554F37 85.595.000 ENS (locked)
 
 Bitcoin, which is built on Blockchain, was an effort to save the “money” from the centralized, authoritative governments and institutions.
 However, nowadays, cryptocurrencies are falling apart from their main purpose of saving the “money” and they are becoming more institutionalized while individuality is left behind. 

@@ -1,6 +1,3 @@
-# Ensemble
-Ensemble a collective token. $ENS
-
 # Token Name: Ensemble
 # Symbol: ENS
 # Total Supply: 300,000,000
@@ -17,7 +14,7 @@ Ensemble a collective token. $ENS
 * Liquidity 1: 0xB1c9fD4AA265E475Bc7E78418e33C19c16a138AC 50.000.000 ENS
 * Liquidity 2: 0xA97Dc5Eb202df2AEcDbc792BcdeA6726F259700d 50.000.000 ENS
 * Liquidity 3: 0x320Ed7b5540947e430c91F5B574B37a014554F37 85.595.000 ENS (locked)
-
+# 
 Bitcoin, which is built on Blockchain, was an effort to save the “money” from the centralized, authoritative governments and institutions.
 However, nowadays, cryptocurrencies are falling apart from their main purpose of saving the “money” and they are becoming more institutionalized while individuality is left behind. 
 

@@ -58,7 +58,7 @@ If the coders prefer, they can support these new tasks and if they do, they will
 
 ![2](https://user-images.githubusercontent.com/85224145/127242005-2731e10a-2a2a-4f21-abdc-0351d3f179f8.png)
 
-/** Publish - Publishing content
+* Publish - Publishing content
 * Like - Like the published content
 * Comment - Comment on the published content
 * Share - Share the published content
@@ -67,7 +67,7 @@ If the coders prefer, they can support these new tasks and if they do, they will
 * Additional Dislike - Dislike the edit made on part of the published content
 * Additional Comment - Comment on part of the published content
 * Additional Comment 2 - Comment on the edit made on part of the published content
-*/
+
 
 Green - Point earned for interacting
 Purple - Point earned indirectly
@@ -171,17 +171,17 @@ For other votings, having at least $400 equivalent of ENS is required.
 
 # ___________FAQ___________
 
-Q: Why Ensembe is founded in BSC network instead of more decentralized coins such as Etherium? 
-A: Decision making system is built on smart contracts and Ethereum transaction fee is high, so we preferred BSC network. 
+* Q: Why Ensembe is founded in BSC network instead of more decentralized coins such as Etherium? 
+* A: Decision making system is built on smart contracts and Ethereum transaction fee is high, so we preferred BSC network. 
 
 
-Q: If the project will be determined by the holders, why platforms such as Encor, KoboSwap etc. exist?
-A: These projects are the 4 pillars of Ensemble project and at the same time they are tools for improving the Ensemble project. They are useful in expansion of the area of use of token and reaches to a wider community.
+* Q: If the project will be determined by the holders, why platforms such as Encor, KoboSwap etc. exist?
+* A: These projects are the 4 pillars of Ensemble project and at the same time they are tools for improving the Ensemble project. They are useful in expansion of the area of use of token and reaches to a wider community.
 
 
-Q: What is the order of development/publish of these 4 projects?
-A: Encore, Votto, Barly, KoboSwap.
+* Q: What is the order of development/publish of these 4 projects?
+* A: Encore, Votto, Barly, KoboSwap.
 
 
-Q: At which stage of development are these projects?
-A: All 4 projects are studied thoroughly and scheme of these projects are determined. Yet cannot be shared due to confidentiality restrictions. 
+* Q: At which stage of development are these projects?
+* A: All 4 projects are studied thoroughly and scheme of these projects are determined. Yet cannot be shared due to confidentiality restrictions. 

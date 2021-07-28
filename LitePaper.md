@@ -58,15 +58,16 @@ If the coders prefer, they can support these new tasks and if they do, they will
 
 ![2](https://user-images.githubusercontent.com/85224145/127242005-2731e10a-2a2a-4f21-abdc-0351d3f179f8.png)
 
-/// Publish - Publishing content
-/// Like - Like the published content
-/// Comment - Comment on the published content
-/// Share - Share the published content
-/// Edit - Edit a part of the published content
-/// Additional Like - Like the edit made on part of the published content
-/// Additional Dislike - Dislike the edit made on part of the published content
-/// Additional Comment - Comment on part of the published content
-/// Additional Comment 2 - Comment on the edit made on part of the published content
+/** Publish - Publishing content
+* Like - Like the published content
+* Comment - Comment on the published content
+* Share - Share the published content
+* Edit - Edit a part of the published content
+* Additional Like - Like the edit made on part of the published content
+* Additional Dislike - Dislike the edit made on part of the published content
+* Additional Comment - Comment on part of the published content
+* Additional Comment 2 - Comment on the edit made on part of the published content
+*/
 
 Green - Point earned for interacting
 Purple - Point earned indirectly

@@ -1,12 +1,12 @@
 # Ensemble
 Ensemble a collective token. $ENS
 
-Token Name: Ensemble
-Symbol: ENS
-Total Supply: 300,000,000
-Decimals: 18
-Contract: 0x93600cEc0Ba5717A14fE0604081a53937EFbA841
-Official Site: ensembletoken.com
+# Token Name: Ensemble
+# Symbol: ENS
+# Total Supply: 300,000,000
+# Decimals: 18
+# Contract: 0x93600cEc0Ba5717A14fE0604081a53937EFbA841
+# Official Site: ensembletoken.com
 
 # Airdrop: 0x2aB80b490B69191Cd02d60ab56af727C0eE6f8Ac 270.000 ENS
 # Private Sale: 0xeE0C6FE26315033d96a20b6EDaD9D920Aca6d58f 135.000 ENS
@@ -33,7 +33,7 @@ Ensemble is built on four pillars to provide an efficient system.
 
 ![2](https://user-images.githubusercontent.com/85224145/127241955-1f9dfa2d-04c0-4aa4-a3db-1f0ddd123ea8.png)
 
-___________ENCOR___________
+# ___________ENCOR___________
 
 Encor is a platform based on open-source software and in which the open-source software coders are awarded.  
 To provide a smooth process and to form a core community, initially joining the community will only be via a reference or an invitation. 
@@ -72,7 +72,7 @@ Purple - Point earned indirectly
 Red - No interaction (No profit)
 
 
-___________VOTTO___________
+# ___________VOTTO___________
 
 This platform is a website which will be collectively created within Encor.  Holders of ENS are allowed to make a suggestion and to vote
 a suggestion on any subject by smart contracts; provided
@@ -111,7 +111,7 @@ To prevent the whales to dominate this system, measures will be taken.
 These measures are ownership of required amount of ENS in their wallet,
 or waiting for mining of some blocks after the transaction of ENS  token to the wallet for voting etc. 
 
-___________BARLY___________
+# ___________BARLY___________
 
 NFTs given as reward in Votto will contain works of agreed artists in JPG, 3D, mp4, gif or wav formats. 
 These NFTs will consists of Epic, Ultra Rare, Rare and Common categories.
@@ -132,7 +132,7 @@ Barly Platform will burn 2% of ENS for each sale.
 Barly will contain progressive ideas such as NFT Stake
 and will be differentiated from other NFT platforms. 
 
-___________KOBO___________
+# ___________KOBO___________
 
 Kobo is a DeFi project that is built on Binance Smart Chain network. 
 In this platform, tokens can be bought and sold, staking and farming can be done via BSC network. 
@@ -140,7 +140,7 @@ In this platform, tokens can be bought and sold, staking and farming can be done
 In Kobo V2, pre sales of tokens in the BSC network that are developed via Encor will be done. 
 Kobo platform will use the revenues of pre sales for buying ENS tokens from the market and burn them. 
 
-___________Ensemble Constitution___________
+# ___________Ensemble Constitution___________
 
 1) As the number of holders increases and the project improves, the authority of holders will increase. 
 
@@ -167,7 +167,7 @@ For other votings, having at least $400 equivalent of ENS is required.
 10) If the contribution to voting is less than 5% of current holders when the voting period has ended, the voting will be automatically rejected.
 
 
-___________FAQ___________
+# ___________FAQ___________
 
 Q: Why Ensembe is founded in BSC network instead of more decentralized coins such as Etherium? 
 A: Decision making system is built on smart contracts and Ethereum transaction fee is high, so we preferred BSC network. 
